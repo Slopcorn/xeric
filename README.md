@@ -1,5 +1,7 @@
 # xeric
 
-This project explores some ways to use heuristic search to find optimal solutions for polynomials. Then attempts to apply them to machine learning models are made to find which one will take the least time to get a decent result.
+This project explores some ways to use heuristic search to find optimal solutions for polynomials and applications to hyperparameter tuning.
 
-The folder *clear* contains python notebooks that have not been run. The folder *executed* contains python notebooks that have (which I will only upload once I feel I've done enough here).
+Dependencies: matplotlib seaborn numpy scipy scikit-learn
+
+The folder *clear* contains notebooks that haven't been run. The folder *executed* contains notebooks that have been run.
